@@ -49,6 +49,7 @@ DirectoryIndex index.html index.html.var index.php
 Site can be access through - http://public_ip/mediawiki
 
 
+
 **Disclaimer**
 Nothing is perfect in this world. There are lots of things that need to be improve and corrected.
 
