@@ -48,7 +48,7 @@ DirectoryIndex index.html index.html.var index.php
 
 Site can be access through - http://public_ip/mediawiki
 
-
+![alt text](https://github.com/Ritesh-OTVOTL/terraform-ansible-mediawiki/blob/main/page_mediwiki.JPG)
 
 **Disclaimer**
 Nothing is perfect in this world. There are lots of things that need to be improve and corrected.
